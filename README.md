@@ -10,13 +10,13 @@ This project is a full-stack application with a **Node.js backend** and a **Reac
 ### 1. Clone the repository
 
 ```bash
-git clone [your-repo-link]
-cd [your-repo-name]
+git clone https://github.com/naraina20/narayan-assignment
+cd narayan-assignment
 ```
 
 ### 2. Set up environment variables
 
-You’ll find two environment files shared with this submission:
+You’ll find two environment files shared with the submission (via mail):
 
 * `backend.env`
 * `frontend.env`
